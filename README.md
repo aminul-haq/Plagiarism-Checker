@@ -27,7 +27,7 @@ Example(English):
 
 Example(Bangla):
 
-	1.ডাক্তার আসার আগেই রোগী মারা গেল
+	1. ডাক্তার আসার আগেই রোগী মারা গেল
 	2. রোগীর মৃত্যুর পর ডাক্তার আসল
 
 	First line's words  will be converted to:
