@@ -2,10 +2,14 @@
 
 
 This project can detect plagirsim by measuring similarities between two input input text, which works for both Bangla and English languages. It can detect plagirism even if sentences are modified with transformation or synonyms.
-We used saveral techniques to find similarities.
+
+We used saveral steps to find similarities.
+
 	1. First we converted all the words to its base form. (See the examples below)
 	2. Then we tried to find the best matched line from input.
+
 Notes:
+
 	1. It's an approximation approach. Results are not hundred percent accurate. 
 	2. Proving more data (dictionary, synonyms etc) will result in better output. 
 
