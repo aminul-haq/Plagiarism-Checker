@@ -1,0 +1,9 @@
+[input Line:] ভাত আমি খাই না
+[ordered matching:] আমি ভাত খাই না 75.0%
+[unordered matching:] আমি ভাত খাই না 100.0%
+
+[input Line:] ভাত আমার দ্বারা খাওয়া হয়
+[ordered matching:] আমি ভাত খাই 20.0%
+[unordered matching:] আমি ভাত খাই 20.0%
+
+Verdict: 60.0% plagiarism detected
