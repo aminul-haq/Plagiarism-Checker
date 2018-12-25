@@ -1,0 +1,75 @@
+i'm i am
+you're you are
+we're we are
+they're they are
+he's he is
+she's she is
+it's it is
+i've i have
+we've we have
+they've they have
+you've you have
+i'd i would
+he'd he would
+she'd she would
+it'd it would
+we'd we would
+you'd you would
+they'd they would
+i'll i will
+he'll he will
+she'll she will
+it'll it will
+we'll we will
+you'll you will
+they'll they will
+he isn't he is not
+she isn't she is not
+it isn't it is not
+he hasn't he has not
+she hasn't she has not
+don't do not
+can't cannot
+aren't are not
+haven't have not
+doesn't does not
+couldn't could not
+wasn't was not
+hadn't had not
+didn't did not
+won't will not
+weren't were not
+wouldn't would not
+shouldn't should not
+mustn't must not
+needn't need not
+mightn't might not
+daren't dare not
+who's who is
+who'd who would
+who'll who will
+what's what is
+what'll what will
+how's how is
+where's where is
+when's when is
+here's here is
+there's there is
+there'd there would
+there'll there will
+that's that is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
